@@ -14,6 +14,7 @@ function Header() {
         <p className={styles.heading}>
           Make your own resume. <span>It's free</span>
         </p>
+        <p>~ made with ❤️ by Atharva Joshi</p>
       </div>
       <div className={styles.right}>
         <img src={resumeSvg} alt="Resume" />
